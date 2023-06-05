@@ -7,7 +7,7 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 	<ItemGroup>
-		<Using Remove="System.Threading"/>
-		<Using Include="System.Diagnostics"/>
+		<Using Remove="System.Threading" />
+		<Using Include="System.Diagnostics" />
 	</ItemGroup>
 </Project>
