@@ -23,6 +23,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AsyncAwaitWPF", "AsyncAwait
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Benchmark", "Benchmark\Benchmark.csproj", "{B5DD8F6B-367C-437F-ABBD-41732DD4E589}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqErweiterungsmethoden", "LinqErweiterungsmethoden\LinqErweiterungsmethoden.csproj", "{50ECD8BE-7CBD-4748-9121-DE9E057D7DB8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{B5DD8F6B-367C-437F-ABBD-41732DD4E589}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B5DD8F6B-367C-437F-ABBD-41732DD4E589}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B5DD8F6B-367C-437F-ABBD-41732DD4E589}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50ECD8BE-7CBD-4748-9121-DE9E057D7DB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50ECD8BE-7CBD-4748-9121-DE9E057D7DB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50ECD8BE-7CBD-4748-9121-DE9E057D7DB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50ECD8BE-7CBD-4748-9121-DE9E057D7DB8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
